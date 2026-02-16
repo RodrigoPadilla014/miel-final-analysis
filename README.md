@@ -65,7 +65,12 @@ Pureza_obj = 43.1 - 7.5 * (1 - exp(-1 * AR/C))
 4. Análisis estadístico (posterior)
 
 ## Autor
-[Tu nombre]
+Rodrigo Padilla
+Raisa Vega
+
+## Data Access
+   Data crudo: `2025_Base_Miel_Final-_calculos.xlsx` (no en repositorio)
+   Contacto: rodrigopadilla267@gmail.com u observar DATA_DICTIONARY.md para estructura
 
 ## Referencias
 - Vega, R. (2020). Caracterización de mieles finales de ingenios guatemaltecos. CENGICAÑA.
